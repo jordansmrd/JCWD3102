@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Apple Iphone 100",
+      "img": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/7/18/04169cb6-84b7-40d5-8829-112ecfc279f8.jpg.webp?ect=4g"
+    },
+    {
+      "id": "2",
+      "name": "Apple iPhone 12 Pro Max",
+      "img": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/8/18/56a00956-66da-4d2a-b543-57ff27b2d5b6.jpg.webp?ect=4g"
+    },
+    {
+      "id": "3",
+      "name": "Apple iPhone 11, 64GB",
+      "img": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/4/10/4831c4c7-f4cf-4d3d-80aa-31a51aee341c.jpg.webp?ect=4g"
+    },
+    {
+      "id": "4",
+      "name": "Samsung Galaxy Z Fold2",
+      "img": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/11/10/88dc8a73-cea9-405d-9589-a2e536235cd4.jpg.webp?ect=4g"
+    },
+    {
+      "id": "5",
+      "name": "Apple AirPods",
+      "img": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/9/22/82611abf-3fcd-4c5e-86c9-d1078a78d0ce.png.webp?ect=4g"
+    },
+    {
+      "id": "6",
+      "name": "Apple MacBook Pro 16",
+      "img": "https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2024/11/6/d7d1a0b6-5a7a-4d07-a42c-5e6b2b129d11.jpg.webp?ect=4g"
+    },
+    {
+      "id": "7",
+      "name": "Apple Watch Series 8",
+      "img": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/1/16/8cafc63b-38cc-4378-9cbc-c5735faaaab2.jpg.webp?ect=4g"
+    },
+    {
+      "id": "8",
+      "name": "Beats Studio3 Wireless",
+      "img": "https://images.tokopedia.net/img/cache/200-square/product-1/2019/8/28/6381035/6381035_bddccc89-6c0e-4eb4-84e7-75cbbaca6f23_700_700.jpg.webp?ect=4g"
+    },
+    {
+      "id": "9",
+      "name": "Apple iPad Mini 5th Gen",
+      "img": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/4/22/dd1ec09f-20bc-432d-84df-90f77f0d2fb2.jpg.webp?ect=4g"
+    },
+    {
+      "id": "10",
+      "name": "Apple iPad Air",
+      "img": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2024/9/16/5ea476c9-feb2-4d90-82ea-e96ff77ddd5d.jpg.webp?ect=4g"
+    }
+  ]
+}
