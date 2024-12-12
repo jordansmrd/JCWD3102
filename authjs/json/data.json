@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "jordan@mail.com",
+      "password": "abc123",
+      "full_name": "jordan s",
+      "img": "https://static.promediateknologi.id/crop/17x28:718x775/0x0/webp/photo/p2/74/2024/03/11/b59a225de4a04af870907663ce0de271-2703384518.jpg"
+    }
+  ]
+}
