@@ -1,0 +1,5 @@
+/node_modules
+
+npm init --y
+npm i typescript @types/node express @types/express --save-dev
+tsc --init
